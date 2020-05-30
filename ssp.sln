@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ssp", "msvc\ssp.vcxproj", "{1B03767B-CB83-4A1B-8480-EF08D557838B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		x64-Release|x86 = x64-Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B03767B-CB83-4A1B-8480-EF08D557838B}.Debug|x86.ActiveCfg = Debug|Win32
+		{1B03767B-CB83-4A1B-8480-EF08D557838B}.Debug|x86.Build.0 = Debug|Win32
+		{1B03767B-CB83-4A1B-8480-EF08D557838B}.Release|x86.ActiveCfg = Release|Win32
+		{1B03767B-CB83-4A1B-8480-EF08D557838B}.Release|x86.Build.0 = Release|Win32
+		{1B03767B-CB83-4A1B-8480-EF08D557838B}.x64-Release|x86.ActiveCfg = x64-Release|Win32
+		{1B03767B-CB83-4A1B-8480-EF08D557838B}.x64-Release|x86.Build.0 = x64-Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1886DBCA-51D3-4108-920F-D1817D2FF2F8}
+	EndGlobalSection
+EndGlobal
