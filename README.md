@@ -1,5 +1,5 @@
 # server-side-protection
-by _xvi
+# Project is no longer supported
 
 
 features:
